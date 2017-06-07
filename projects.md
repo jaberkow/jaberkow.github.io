@@ -1,5 +1,5 @@
 ---
-title: Projects I am working on
+title: Projects
 ---
 
-#Coming soon
+# Coming soon
