@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
 title: The homepage for John Berkowitz (jaberkow)
 description: Still under construction, stay tuned for updates.
+markdown: kramdown
