@@ -1,3 +1,3 @@
 ## Directory
 
-* [Projects](jaberkow.github.io/projects.md)
+* [Projects](/projects.md)
